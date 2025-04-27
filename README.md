@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @darshan-s-n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-darshan-s-n/darshan-s-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Darshu! 👋
+
+I'm a PGDM (Business Analytics) student passionate about solving business problems through data.  
+I have hands-on experience in Python, SQL, R, and data visualization tools like Tableau.
+
+Currently Learning: Business Analytics, Financial Modeling, Machine Learning Basics.
+
+Skills: Python | R | SQL | MS Excel | Tableau | ggplot2 | PowerPoint
+
+Looking to Collaborate on: Data analysis projects, business case studies, and data storytelling.
+
+📫 How to reach me: darshualone@gmail.com
