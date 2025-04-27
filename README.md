@@ -1,5 +1,5 @@
 
-Hi, I'm Darshu! 👋
+Hi, I'm Darshan 👋
 
 I'm a PGDM (Business Analytics) student passionate about solving business problems through data.  
 I have hands-on experience in Python, SQL, R, and data visualization tools like Tableau.
